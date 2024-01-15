@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm TANISHK</h1>
+<h1 align="center">Hi 👋, I'm Tanishk</h1>
 - 🔭 I’m currently working on [DEEP LEARNING](https://github.com/phionex2/Deep-Learning)
 
 - 📫 How to reach me **tanishk.9868@gmail.com**
