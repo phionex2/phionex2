@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tanishk</h1>
 
 
-## 👨‍💻  &nbsp;About Me <hr>
+## 👨‍💻  &nbsp;About Me 
 🔭 I’m currently working on [DEEP LEARNING](https://github.com/phionex2/Deep-Learning)
-
 - 📫 How to reach me **tanishk.9868@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
