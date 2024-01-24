@@ -32,6 +32,6 @@
 ![TANISHK's GitHub stats](https://github-readme-stats.vercel.app/api?username=phionex2&show_icons=true)
 
 <hr>
-
+<p aliign = 'right'>
 //[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phionex2&layout=donut)](https://github.com/phionex2/github-readme-stats)
-
+</p>
