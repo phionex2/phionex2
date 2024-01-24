@@ -29,9 +29,9 @@
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
-![TANISHK's GitHub stats](https://github-readme-stats.vercel.app/api?username=phionex2&show_icons=true)
-
-<hr>
-<p aliign = 'right'>
-//[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phionex2&layout=donut)](https://github.com/phionex2/github-readme-stats)
+<p align='left'>
+<a href="https://github.com/phionex2">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=phionex2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=phionex2&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
