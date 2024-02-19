@@ -1,11 +1,14 @@
 <h1 align="center" >Hi 
          <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> there, I'm <a> Tanishk</a> </h1>
 
+
 ## 👨‍💻  &nbsp;About Me 
 - 🔭 I’m currently working on [DEEP LEARNING](https://github.com/phionex2/Deep-Learning)
 - 📫 How to reach me **tanishk.9868@gmail.com**
 
+
 <hr>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -24,6 +27,7 @@
 </p>
 <hr>
 <br>
+
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align='left'>
