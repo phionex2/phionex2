@@ -2,8 +2,6 @@
          alt="Waving hand animated gif"
          height="45" width="45" /> there, I'm <a> Tanishk</a> </h1>
 
-
-
 ## 👨‍💻  &nbsp;About Me 
 - 👀 I’m interested in new techonlogies like AIML, Web Developmente.
 - 📫 Email: tanishk.9868@gmail.com
