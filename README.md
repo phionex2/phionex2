@@ -3,7 +3,7 @@
          height="45" width="45" /> there, I'm <a> Tanishk</a> </h1>
 
 ## 👨‍💻  &nbsp;About Me 
-- 👀 I’m interested in new techonlogies like AIML, Web Developmente.
+- 👀 I’m interested in new techonlogies like AIML, Web Development.
 - 📫 Email: tanishk.9868@gmail.com
 
 ## 🛠 &nbsp;Tech Stack
