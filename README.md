@@ -1,3 +1,20 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+         <div id="badges">
+  <a href="https://www.linkedin.com/in/tanishk-a10566228/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+<a href = "tanishk.2132004@gmail.com">                                 
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=envelope&logoColor=white" alt="Email Badge"/>
+                           
+</a>
+
+
+  </a>
+  </a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=phionex2&style=flat-square&color=blue" alt=""/>
+
 <h1 align="center" >Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45" width="45" /> there, I'm <a> Tanishk</a> </h1>
